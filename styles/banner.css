@@ -1,0 +1,16 @@
+.banner {
+    background: var(--cor-gradiente);
+    color: var(--cor-text);
+    text-align: center;
+    padding: 2.5em 2em;
+}
+.banner__titulo {
+    font-size: 1.125rem;
+    font-weight: 700;
+}
+
+.banner__texto {
+    font-weight: 500;
+    font-size: 1rem;
+    margin: 1em 0;
+}
