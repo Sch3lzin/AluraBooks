@@ -11,6 +11,7 @@
     --cor-item-menu: linear-gradient(120deg,rgba(0, 47, 82, 1) 100%, rgba(50, 101, 137, 1) 0%);
     --cor-gradiente: linear-gradient(120deg,rgba(0, 47, 82, 1) 100%, rgba(50, 101, 137, 1) 0%);
     --cor-text: #fff;
+    --cor-azul: #002F52;
 
     /* Fonts */
     --font-poppins: "Poppins", sans-serif;
