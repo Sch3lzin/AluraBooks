@@ -13,4 +13,5 @@ Preview - 1440px
 ## 
 
 This project was done as a class project in the Alura course
+
 ® 2025 Alura, AluraBooks. Todos os direitos reservados. Developed by Daniel Schefer
