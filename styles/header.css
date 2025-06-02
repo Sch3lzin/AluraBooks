@@ -150,3 +150,9 @@
     }
 
 }
+
+@media screen and (max-width:340px) {
+    .container__imagem {
+        padding: 1em 0.5em;
+    }
+}

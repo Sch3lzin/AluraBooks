@@ -107,3 +107,22 @@
         margin: 2.5em auto;
     }
 }
+
+@media screen and (max-width:340px) {
+    .descricao__imagem {
+        width: 40%;
+    }
+
+    .botoes__ancora {
+        padding: 0.8em 1.5em;
+    }
+
+    .botoes__item {
+        display: flex;
+        align-items: center;
+    }
+
+    .botoes__item img {
+        height: 25px;
+    }
+}
