@@ -11,6 +11,7 @@
     --cor-fundo: #ebecee;
     --cor-header: #fff;
     --cor-titulo-menu: #EB9B00;
+    --cor-laranja-escuro: #a16c00;
     --cor-item-menu: linear-gradient(120deg,rgba(0, 47, 82, 1) 100%, rgba(50, 101, 137, 1) 0%);
     --cor-gradiente: linear-gradient(120deg,rgba(0, 47, 82, 1) 100%, rgba(50, 101, 137, 1) 0%);
     --cor-text: #fff;
@@ -18,6 +19,7 @@
     --cor-preto: #000;
     --cor-cinza: #474646;
     --cor-cinza-02: #858585;
+    --cor-cinza-03: #cecece;
 
     /* Fonts */
     --font-poppins: "Poppins", sans-serif;

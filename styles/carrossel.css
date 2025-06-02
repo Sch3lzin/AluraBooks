@@ -83,6 +83,10 @@
     margin-bottom: 0.5em;
 }
 
+.botoes__ancora:hover {
+    background-color: var(--cor-laranja-escuro);
+}
+
 @media screen and (min-width: 1024px) {
     .carrossel__titulo {
         font-size: 26px;
@@ -127,12 +131,17 @@
     }
 }
 
-@media screen and (min-width:1728px) {
+@media screen and (min-width:1440px) {
     .carrossel__container {
         display: flex;
-        margin: 0 20vw 3em 20vw;
+        margin: 0 15vw 3em 15vw;
         align-items: center;
         gap: 4em;
+    }
+
+    .botoes__item {
+        display: flex;
+        align-items: center;
     }
 
     .swiper-pagination {
