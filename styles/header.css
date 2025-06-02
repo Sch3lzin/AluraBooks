@@ -100,6 +100,7 @@
 
     .opcoes {
         display: flex;
+        align-items: center;
     }
 
     .opcoes__item {
@@ -126,6 +127,26 @@
 
     .container__botao:checked ~ .container__menu, .cabecalho__menu-hambuguer {
     background-image: none;
+    }
+
+    .opcoes__botao:checked ~ .lista-menu {
+        display: block;
+        width: auto;
+    }
+
+    .opcoes__botao {
+        display: none;
+    }
+
+    .opcoes__item-gradiente {
+        height: 100%;
+        display: flex;
+        align-items: center;
+    }
+
+    .opcoes__botao:checked ~ .opcoes__item-gradiente {
+        background: var(--cor-item-menu);
+        color: var(--cor-text);
     }
 
 }
